@@ -1,7 +1,7 @@
 # SIH-Workshop
 
 ## 1. First Slide
-    ![image](https://github.com/TEJA19092005/SIH-Workshop/assets/164043042/19b257e6-eda1-4e76-9201-c8123e33d964)
+   ![image]("C:\Users\admin\Pictures\Screenshots\Screenshot (34).png")
     
 ## 2. Second Slide
     ![Screenshot (35)](https://github.com/TEJA19092005/SIH-Workshop/assets/164043042/312f3b0c-ad13-4d30-ba3d-ac9e270f4add)
